@@ -14,14 +14,19 @@ _(desde el directorio con el Dockerfile)_
 	+ `docker exec -it cron_py bash`
 
 + Ver logs (/tmp):
+
 ![](img/tmp.png)
+
 + Logs:
+
 ![](img/logpy.png)
+
 ![](img/logsh.png)
 
 
 ## crontab:
-`crontab -e`
+`crontab -e`  
+
 ![](img/crontab.png)
 
 Con esta configuración se ejecutarán cada 1 min.
