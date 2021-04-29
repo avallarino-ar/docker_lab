@@ -15,18 +15,18 @@ _(desde el directorio con el Dockerfile)_
 
 + Ver logs (/tmp):
 
-![](img/tmp.png)
+	![](img/tmp.png)
 
 + Logs:
 
-![](img/logpy.png)
+	![](img/logpy.png)
 
-![](img/logsh.png)
+	![](img/logsh.png)
 
 
 ## crontab:
 `crontab -e`  
 
-![](img/crontab.png)
+	![](img/crontab.png)
 
 Con esta configuración se ejecutarán cada 1 min.
