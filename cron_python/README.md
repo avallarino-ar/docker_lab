@@ -25,8 +25,8 @@ _(desde el directorio con el Dockerfile)_
 
 
 ## crontab:
-`crontab -e`  
+Ejecutando `crontab -e` podremos ver y editar la configuración:    
 
-	![](img/crontab.png)
+![](img/crontab.png)
 
 Con esta configuración se ejecutarán cada 1 min.
