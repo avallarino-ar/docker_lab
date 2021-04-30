@@ -1,9 +1,10 @@
 # Docker - cron
 
 Planificar la ejecución de un script en un contenedor de Docker.  
-Se ejecutará un scrtip de Python y uno Bash  
+Se ejecutará un scrtip de Python y uno Bash.  
 
-## Comandos:
+
+## Comandos:
 _(desde el directorio con el Dockerfile)_
 
 + Crear imagen: 
